@@ -1,4 +1,7 @@
 # Clone the repository
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/sugizo/brunch-build.svg)](https://greenkeeper.io/)
+
 	cd ~/git
 	git clone https://github.com/sugizo/brunch-build
 
